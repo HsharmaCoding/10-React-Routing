@@ -4,7 +4,7 @@
 2. Routing configuration has been implemented in the App.tsx file for all the components.
 3. Route with parameter:
     > component/pages/AccessDefaultParameter.tsx: Accessing parameter from the URL. The parameter is being passed from the routing setup.
-4. Rote without parameter:
+4. Route without parameter:
     > component/pages/Department.tsx
     > component/pages/Employee.tsx
     > component/pages/Home.tsx
