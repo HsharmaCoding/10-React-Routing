@@ -1,4 +1,4 @@
-# Implement routing using react-router-dom library.
+# Routing using react-router-dom library.
 1. Install the below package to implement the routing in the application.
     > npm i react-router-dom
 2. Routing configuration has been implemented in the App.tsx file for all the components.
